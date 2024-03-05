@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TitoP. 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Solana Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tito.kozuki948@anglernook.com
 - 😄 Pronouns: he/him/his
