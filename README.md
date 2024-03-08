@@ -6,6 +6,8 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 
+  Check out my website at https://titop.tech/ 
+
 <!---
 titoP-kozuki/titoP-kozuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
